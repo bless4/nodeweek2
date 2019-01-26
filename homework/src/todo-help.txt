@@ -1,0 +1,6 @@
+TODO H E L P:
+
+add: node index.js add 'whatever' --> i.e node index.js add cake
+remove an item: node index.js delete indexNumber" --> i.e node index.js delete 2
+show items: node index.js list 
+remove all: node index.js reset
